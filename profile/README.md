@@ -1,4 +1,4 @@
-<table>
+<table align="center">
   <tr>
     <td colspan="4" align="center"><b>Programs</b></td>
   </tr>
@@ -50,7 +50,7 @@
   </tr>
 </table>
 
-<table>
+<table align="center">
   <tr>
     <td colspan="3" align="center"><b>Utils</b></td>
   </tr>
