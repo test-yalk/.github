@@ -134,7 +134,7 @@
         <tr>
           <td><img src="https://github.com/somenmi/images/raw/main/awalores-platforms/logo.png" width="48" height="48"></td>
           <td align="center">
-            <b>AWALORES Platforms</b>
+            <b>AWALORES Pl.</b>
             <p>WEB</p>
           </td>
         </tr>
