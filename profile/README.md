@@ -1,4 +1,4 @@
-<table align="center">
+<table align="center" border="12">
   <tr>
     <td colspan="4" align="center"><b>Programs</b></td>
   </tr>
