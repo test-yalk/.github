@@ -71,7 +71,7 @@
         <tr>
           <td><img src="LINK">💥</img></td>
           <td align="center">
-            <b>My Wave Yandex Music</b>
+            <b>My Wave Ya.Music</b>
             <p>EXT (chromium)</p>
           </td>
         </tr>
