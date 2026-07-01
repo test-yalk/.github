@@ -52,7 +52,7 @@
 
 <table align="center">
   <tr>
-    <td colspan="3" align="center"><b>- Utils - </b></td>
+    <td colspan="4" align="center"><b>- Utils - </b></td>
   </tr>
   <tr>
     <td>
@@ -85,6 +85,13 @@
             <b>Lite Ext Switch</b>
             <p>EXT (chromium)</p>
           </td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td><img width="48" height="48"></td>
         </tr>
       </table>
     </td>
