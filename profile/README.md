@@ -1,6 +1,6 @@
 <table align="center" border="12">
   <tr>
-    <td colspan="4" align="center"><b>Programs</b></td>
+    <td colspan="4" align="center"><b>= = = = = = Programs = = = = = = </b></td>
   </tr>
   <tr>
     <td>
@@ -52,7 +52,7 @@
 
 <table align="center">
   <tr>
-    <td colspan="3" align="center"><b>Utils</b></td>
+    <td colspan="3" align="center"><b>= = = = = = Utils = = = = = = </b></td>
   </tr>
   <tr>
     <td>
@@ -93,7 +93,7 @@
 
 <table align="center">
   <tr>
-    <td colspan="4" align="center"><b>WEB</b></td>
+    <td colspan="4" align="center"><b>= = = = = = WEB = = = = = = </b></td>
   </tr>
   <tr align="center">
     <td>
