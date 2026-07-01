@@ -202,37 +202,10 @@
       </table>
     </td>
     <td>
-      <table>
-        <tr>
-          <td><img src="NONE" width="48" height="48"></td>
-          <td align="center">
-            <b>NONE</b>
-            <p>NONE</p>
-          </td>
-        </tr>
-      </table>
     </td>
     <td>
-      <table>
-        <tr>
-          <td><img src="NONE" width="48" height="48"></td>
-          <td align="center">
-            <b>NONE</b>
-            <p>NONE</p>
-          </td>
-        </tr>
-      </table>
     </td>
     <td>
-      <table>
-        <tr>
-          <td><img src="NONE" width="48" height="48"></td>
-          <td align="center">
-            <b>NONE</b>
-            <p>NONE</p>
-          </td>
-        </tr>
-      </table>
     </td>
   </tr>
 
