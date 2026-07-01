@@ -20,7 +20,7 @@
           <td><img src="https://github.com/somenmi/images/raw/main/aopfyflmby/logo.png" width="48" height="48"></td>
           <td align="center">
             <b>aopfyflmby</b>
-            <p>MUSIC-PLAYER</p>
+            <p>MUSIC-APP</p>
           </td>
         </tr>
       </table>
@@ -52,7 +52,7 @@
 
 <table>
   <tr>
-    <td colspan="4" align="center"><b>Utils</b></td>
+    <td colspan="3" align="center"><b>Utils</b></td>
   </tr>
   <tr>
     <td>
@@ -84,17 +84,6 @@
           <td align="center">
             <b>Lite Ext Switch</b>
             <p>EXT (chromium)</p>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td><img src="LINK" width="48" height="48"></td>
-          <td align="center">
-            <b>NONE</b>
-            <p>NONE</p>
           </td>
         </tr>
       </table>
