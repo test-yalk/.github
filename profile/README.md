@@ -128,9 +128,9 @@
     <td>
       <table>
         <tr>
-          <td><img src="https://github.com/somenmi/images/raw/main/awalores-platforms/logo.png" width="48" height="48"></td>
+          <td><img src="https://github.com/somenmi/images/raw/main/hub_nity/logo.png" width="48" height="48"></td>
           <td align="center">
-            <b>AWALORES Pl.</b>
+            <b>HUB uNITY</b>
             <p>WEB</p>
           </td>
         </tr>
@@ -139,9 +139,9 @@
     <td>
       <table>
         <tr>
-          <td><img src="https://github.com/somenmi/images/raw/main/twitch/favicon-twitch-don.png" width="48" height="48"></td>
+          <td><img src="https://github.com/somenmi/images/raw/main/awalores-platforms/logo.png" width="48" height="48"></td>
           <td align="center">
-            <b>Donaters</b>
+            <b>AWALORES Pl.</b>
             <p>WEB</p>
           </td>
         </tr>
@@ -161,17 +161,6 @@
   
   </tr>
   <tr align="center">
-    <td>
-      <table>
-        <tr>
-          <td><img src="https://github.com/somenmi/images/raw/main/hub_nity/logo.png" width="48" height="48"></td>
-          <td align="center">
-            <b>HUB uNITY</b>
-            <p>WEB</p>
-          </td>
-        </tr>
-      </table>
-    </td>
     <td>
       <table>
         <tr>
@@ -205,6 +194,17 @@
         </tr>
       </table>
     </td>
+        <td>
+      <table>
+        <tr>
+          <td><img src="https://github.com/somenmi/images/raw/main/HLBY/logo.png" width="48" height="48"></td>
+          <td align="center">
+            <b>HLBY</b>
+            <p>WEB-APP</p>
+          </td>
+        </tr>
+      </table>
+    </td>
   </tr>
 
   <tr>
@@ -221,10 +221,10 @@
     <td>
       <table>
         <tr>
-          <td><img src="https://github.com/somenmi/images/raw/main/HLBY/logo.png" width="48" height="48"></td>
+          <td><img src="https://github.com/somenmi/images/raw/main/twitch/favicon-twitch-don.png" width="48" height="48"></td>
           <td align="center">
-            <b>HLBY</b>
-            <p>WEB-APP</p>
+            <b>Donaters</b>
+            <p>WEB</p>
           </td>
         </tr>
       </table>
